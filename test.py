@@ -7,7 +7,10 @@
 
 
 def f():
-    pass
+    for i in range(10):
+        print i
+
+f()
 
 # ctrl+d 快速复制一行
 # ctrl+y 快速删除一行
@@ -19,3 +22,4 @@ def f():
 # ctrl+r 替换
 # ctrl+加减号  折叠
 # Ctrl+shift+加减号  全局折叠
+# TODO 记录要做的事情
