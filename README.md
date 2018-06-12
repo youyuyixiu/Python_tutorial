@@ -17,5 +17,6 @@
 9. sort.py(四种排序实现)
 10. heap.py(堆的实现 python3报错 python2正常)
 11. first_crawler.py
+12. zhengze.py
 
 ```
