@@ -5,7 +5,7 @@
 ### 阅读顺序
 
 ```
-0. list_delete_repeat.py(与本教程无关，是师妹遇到的一个问题)
+0. list_delete_repeat.py(与本教程无关，是同学遇到的一个问题)
 1. print_prime_number.py和count_english_words.py是本教程python基础部分最后的两个case(test.txt是输入)
 2. array.md(数组)
 3. linked_list.md(链表)
