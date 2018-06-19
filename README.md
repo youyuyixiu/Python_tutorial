@@ -18,7 +18,5 @@
 10. heap.py(堆的实现 python3报错 python2正常)
 11. first_crawler.py
 12. zhengze.py
-
-该看[这一节课啦](https://www.bilibili.com/video/av5236569/?p=23)
-
 ```
+该看[这一节课啦]( https://www.bilibili.com/video/av5236569/?p=23)
